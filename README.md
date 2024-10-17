@@ -1,1 +1,2 @@
-# nlp_projects
+# NLP
+This repository contains small projects from the NLP field
